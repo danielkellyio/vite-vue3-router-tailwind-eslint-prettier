@@ -11,5 +11,9 @@ Vite starter template that includes:
 ## How to Use
 
 ```
-npx deget danielkellyio/vite-vue3-router-tailwind-eslint-prettier 
+npx degit danielkellyio/vite-vue3-router-tailwind-eslint-prettier [project-name]
+```
+```
+npm install
+npm run dev
 ```
