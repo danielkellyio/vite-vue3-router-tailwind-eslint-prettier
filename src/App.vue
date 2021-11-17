@@ -5,20 +5,11 @@
 </script>
 
 <template>
-  <ul>
+  <ul class="flex mb-10 gap-4 bg-gray-500 p-5 text-white">
     <li><router-link :to="{name:'Home'}">Home</router-link></li>
     <li><router-link :to="{name:'About'}">About</router-link></li>
   </ul>
-  <router-view/>
+  <div class="max-w-5xl m-auto">
+    <router-view/>
+  </div>
 </template>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
