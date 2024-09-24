@@ -20,4 +20,4 @@ npm install
 npm run dev
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/https://github.com/danielkellyio/vite-vue3-router-tailwind-eslint-prettier)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/danielkellyio/vite-vue3-router-tailwind-eslint-prettier)
